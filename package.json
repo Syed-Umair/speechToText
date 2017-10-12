@@ -1,0 +1,14 @@
+{
+  "name": "speechtotext",
+  "version": "1.0.0",
+  "description": "Listen on Mic & Convert audio input to text.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Syed Umair",
+  "license": "MIT",
+  "dependencies": {
+    "getusermedia-to-text": "^1.0.5"
+  }
+}
