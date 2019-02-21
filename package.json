@@ -4,8 +4,7 @@
   "description": "Listen on Mic & Convert audio input to text.",
   "main": "index.js",
   "scripts": {
-    "start": "electron .",
-    "postinstall": "./node_modules/.bin/electron-rebuild -v 1.7.9 -p"
+    "start": "electron ."
   },
   "author": "Syed Umair",
   "license": "MIT",
