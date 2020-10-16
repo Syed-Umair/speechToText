@@ -11,6 +11,6 @@
   "dependencies": {
     "electron-rebuild": "^1.6.0",
     "getusermedia-to-text": "latest",
-    "electron": "1.7.9"
+    "electron": "10.1.3"
   }
 }
